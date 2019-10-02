@@ -54,6 +54,7 @@
 		1C8230C42335CB70007D8E42 /* Arctic */ = {
 			isa = PBXGroup;
 			children = (
+				1C8230D72335CB7A007D8E42 /* Model */,
 				1C8230C52335CB70007D8E42 /* AppDelegate.swift */,
 				1C8230C72335CB70007D8E42 /* ViewController.swift */,
 				1C8230C92335CB70007D8E42 /* Main.storyboard */,
@@ -62,6 +63,13 @@
 				1C8230D12335CB73007D8E42 /* Info.plist */,
 			);
 			path = Arctic;
+			sourceTree = "<group>";
+		};
+		1C8230D72335CB7A007D8E42 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
